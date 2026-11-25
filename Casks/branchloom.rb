@@ -1,6 +1,6 @@
 cask "branchloom" do
-  version "20261125.200851"
-  sha256 "55dda75fff0dd5db503c2e0f52920f9bf635debdb7018a065da2a2dddf7c5915"
+  version "20261125.201442"
+  sha256 "f0b0cdf81bcc74cd36ffc9d2587a267962dc45bcce22409c24b20c35cb1f6cb2"
 
   url "https://github.com/klcodanr/branchloom/releases/download/v#{version}/Branchloom-#{version}.dmg"
   name "Branchloom"
